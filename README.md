@@ -1,4 +1,4 @@
-Repository for the paper *"An Empirical Study on Explanations in Out-of-Domain Settings"*. 
+Repository for the paper *"An Empirical Study on Explanations in Out-of-Domain Settings"* to appear at ACL 2022. 
 
 ## Prerequisites
 
