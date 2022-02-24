@@ -1,0 +1,23 @@
+{
+    "train": {
+        "avg. sequence length": 66,
+        "no. of documents": 167145,
+        "docs in label-0": 10651,
+        "docs in label-1": 11581,
+        "docs in label-2": 144913
+    },
+    "dev": {
+        "avg. sequence length": 66,
+        "no. of documents": 29497,
+        "docs in label-0": 1879,
+        "docs in label-1": 2044,
+        "docs in label-2": 25574
+    },
+    "test": {
+        "avg. sequence length": 65,
+        "no. of documents": 34702,
+        "docs in label-0": 2211,
+        "docs in label-1": 2404,
+        "docs in label-2": 30087
+    }
+}
