@@ -1,6 +1,12 @@
-import numpy as np
-
+"""
+Code modified from:
+    Interpretable Neural Predictions with Differentiable Binary Variables,
+    Jasmijn Bastings, Wilker Aziz, Ivan Titov
+    2019
+    https://aclanthology.org/P19-1284/
+"""
 import torch
+import numpy as np
 from torch import nn
 from torch.nn.functional import softplus
 import json

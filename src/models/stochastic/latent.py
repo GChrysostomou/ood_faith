@@ -1,3 +1,10 @@
+"""
+Code modified from:
+    Interpretable Neural Predictions with Differentiable Binary Variables,
+    Jasmijn Bastings, Wilker Aziz, Ivan Titov
+    2019
+    https://aclanthology.org/P19-1284/
+"""
 import torch
 from torch import nn
 from torch.nn import LSTMCell
